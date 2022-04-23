@@ -1,0 +1,24 @@
+@startuml if 
+    start
+    if(int a lebih besar dari) the (yes)
+    #LightSkyBlue:cout << a lebih besar dari b;
+    else (no)
+    #LightSkyBlue:cout << b lebih kecil dari a;
+    endif
+    stop
+    
+    header
+    pertemuan 3
+    endheader
+    title selection statements menggunakan if else
+    caption copyright@esaunggul.ac.id
+    legend left
+    CT211-Pemograman Berorientasi Objek
+    end legend
+
+    @enduml
+
+
+    
+endif
+    
